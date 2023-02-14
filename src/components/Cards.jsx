@@ -1,4 +1,6 @@
 import React from "react";
+import bgLight from "../assets/bg-light.jpg";
+import bgDark from "../assets/bg-dark.jpg";
 
 export default function Cards() {
   return (
@@ -13,7 +15,7 @@ export default function Cards() {
               <div
                 className="bg"
                 style={{
-                  backgroundImage: 'url("/src/assets/bg-dark.jpg")',
+                  backgroundImage: `url(${bgDark})`,
                 }}
               ></div>
 
@@ -50,7 +52,7 @@ export default function Cards() {
               <div
                 className="bg"
                 style={{
-                  backgroundImage: 'url("/src/assets/bg-light.jpg")',
+                  backgroundImage: `url(${bgLight})`,
                 }}
               ></div>
 
@@ -87,7 +89,7 @@ export default function Cards() {
               <div
                 className="bg"
                 style={{
-                  backgroundImage: 'url("/src/assets/bg-dark.jpg")',
+                  backgroundImage: `url(${bgDark})`,
                 }}
               ></div>
 
