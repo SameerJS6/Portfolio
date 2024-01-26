@@ -21,12 +21,6 @@ export default function Heading() {
             >
               See my work
             </a>
-            <a
-              className="bg-blue-600 rounded-[48px] text-blue-50 text-2xl p-4 active:rounded-2xl transition-all duration-300 ease-in-out"
-              // href=""
-            >
-              Know more?
-            </a>
           </div>
         </div>
       </article>

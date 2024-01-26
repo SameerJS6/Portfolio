@@ -14,8 +14,3 @@ export default function App() {
     </>
   );
 }
-
-// Next, I Open this Project Make sure I have to change the media quries break points
-
-// Day 1:- Leaving with A completed Card Layout.
-// Tomorrow, have to fix the margin-top and bottom for the Cards Sections and I have to make some minor changes and Also has to learn about how to make a sidebar
